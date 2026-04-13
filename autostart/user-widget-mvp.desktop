@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Quota Widget
+Comment=Open quota details window
+Exec=/share/apps/quota-widget/current/bin/launch_quota_widget.sh --show
+Terminal=false
+Categories=Utility;
+StartupNotify=true
+Icon=/share/apps/quota-widget/current/icons/user-widget-normal.svg

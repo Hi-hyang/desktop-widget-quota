@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Quota Widget (Tray)
+Comment=Start quota widget in background after login
+Exec=/share/apps/quota-widget/current/bin/launch_quota_widget.sh
+Terminal=false
+X-GNOME-Autostart-enabled=true
+Categories=Utility;
+StartupNotify=false
+NoDisplay=true
