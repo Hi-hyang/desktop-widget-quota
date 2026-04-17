@@ -51,7 +51,7 @@ ORDER BY volume;
 
 ### CentOS 7.9
 ```bash
-sudo yum install -y python3 python3-gobject gtk3
+sudo yum install -y python36 python36-gobject gtk3
 ```
 
 ### Rocky 8.10
